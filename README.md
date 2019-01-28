@@ -3,16 +3,16 @@
 
  1. Introduction
  2. Techniques Used for Comparison
-  2.1. Data Encryption Standard (DES)
-  2.2 3DES (Triple DES) Cryptography
-  2.3 AES (Advanced Encryption Standard) Cryptography
-  2.4.RC4 Stream Cipher
-  2.5. IDEA Cryptography
-  2.6. Visual Cryptography
-  2.7. Hierarchical Cryptography
-  2.8. Elliptic Curve Cryptography
-  2.9. Vigenère Cryptography
-  2.10. Chaotic Encryption Technique
+    - Data Encryption Standard (DES)
+    - 3DES (Triple DES) Cryptography
+    - AES (Advanced Encryption Standard) Cryptography
+    - RC4 Stream Cipher
+    - IDEA Cryptography
+    - Visual Cryptography
+    - Hierarchical Cryptography
+    - Elliptic Curve Cryptography
+    - Vigenère Cryptography
+    - Chaotic Encryption Technique
  3. Simulation Setup Parameters
  4. Performance Metrics
   4.1. Visual Assessment
