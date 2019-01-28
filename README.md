@@ -15,24 +15,24 @@
     - Chaotic Encryption Technique
  3. Simulation Setup Parameters
  4. Performance Metrics
-  4.1. Visual Assessment
-  4.2. Key-Space Analysis
-  4.3. Statistical Analysis
-  4.4. Histogram Analysis
-  4.5. Correlation Analysis
-  4.6. Differential analysis
-  4.7. Key Sensitivity
-  4.8. Pixel/Plain image sensitivity
-  4.9. Information Entropy Analysis
-  4.10 Peak Signal to Noise Ratio (PSNR) analysis
-  4.11 Computational Speed Analysis
+    - Visual Assessment
+    - Key-Space Analysis
+    - Statistical Analysis
+    - Histogram Analysis
+    - Correlation Analysis
+    - Differential analysis
+    - Key Sensitivity
+    - Pixel/Plain image sensitivity
+    - Information Entropy Analysis
+    - Peak Signal to Noise Ratio (PSNR) analysis
+    - Computational Speed Analysis
  5. Results
-  5.1. Visual Assessment
-  5.2. Key Space Analysis
-  5.3. Statistical Analysis
-  5.4. Sensitivity Analysis
-  5.5. Entropy Analysis
-  5.6. PSNR Analysis
-  5.7. Computational Time Analysis
+    - Visual Assessment
+    - Key Space Analysis
+    - Statistical Analysis
+    - Sensitivity Analysis
+    - Entropy Analysis
+    - PSNR Analysis
+    - Computational Time Analysis
  6. Overall Conclusion
- References
+    References
